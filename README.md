@@ -44,5 +44,3 @@ Formado em Arquitetura e Urbanismo pelo Centro Universitário FIAM FAAM, atualme
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MeloYago&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 </div>
-
-![Snake animation](https://github.com/MeloYago/MeloYago/blob/output/github-contribution-grid-snake.svg)
